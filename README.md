@@ -5,7 +5,7 @@ The following files dereference OpenAPI specifications.
 * dereference-json
 * dereference-yaml
 
-These remove all $ref and anchors in the file directly with their text.
+These remove all $ref and anchors in the file and directly replaces with their text.
 Some applications, such as linters, do not handle files with $ref statements well.
 In the same way, it may be easier to post files to web servers without those statements, too.
 These applications create deferenced and scrubbed files. 
