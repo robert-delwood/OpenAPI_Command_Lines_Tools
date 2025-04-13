@@ -11,6 +11,6 @@ In the same way, it may be easier to post files to web servers without those sta
 These applications create deferenced and scrubbed files. 
 
 Download the appropiate file type (JSON or YAML). Usage notes are included in the downloads.
-The advantage of these files are that no additional installation of any libraries are needed. 
+The advantage of these files is that no additional installation of any libraries are needed. 
 Typically, node or perhaps Redocly or Swagger CLI files need to be installed. 
 Not with these files. The libraries are present but in the executables. That's why they're so large.
